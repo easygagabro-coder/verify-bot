@@ -1,0 +1,16 @@
+{
+  "name": "verify-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start:web": "node web/server.js",
+    "start:bot": "node bot/bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.4.5"
+  }
+}
