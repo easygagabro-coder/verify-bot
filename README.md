@@ -1,2 +1,0 @@
-# verify-bot
-gggg
